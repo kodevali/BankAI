@@ -58,7 +58,7 @@ const ProjectBriefView: React.FC = () => {
              </li>
              <li className="flex items-center bg-blue-50 p-3 rounded-lg text-blue-900 text-sm font-medium border border-blue-100">
                 <span className="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
-                Proficiency: Score > 4.5/5
+                Proficiency: Score &gt; 4.5/5
              </li>
              <li className="flex items-center bg-indigo-50 p-3 rounded-lg text-indigo-900 text-sm font-medium border border-indigo-100">
                 <span className="w-2 h-2 bg-indigo-500 rounded-full mr-2"></span>

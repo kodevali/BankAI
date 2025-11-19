@@ -1,0 +1,5 @@
+{
+  "name": "BankAI - Project Enablement Tracker",
+  "description": "A project management dashboard for the Google Workspace AI Enablement initiative, featuring timeline tracking, KPI monitoring, and a Gemini-powered assistant for communication generation.",
+  "requestFramePermissions": []
+}
